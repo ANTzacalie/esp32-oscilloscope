@@ -14,13 +14,13 @@ A two-ESP32 university project made to **see** sine and square waves in MATLAB.
 
 ### 01 · Square wave
 
-**LEDC output → ADC capture → MATLAB display** · `SS2_Demo_1.mp4`
+[▶ Square wave demo](./SS2_Demo_1.mp4)
 
 <!-- SS2_Demo_1.mp4: paste its GitHub-hosted attachment URL on a line by itself here. -->
 
 ### 02 · Sine wave
 
-**DAC output → ADC capture → MATLAB display** · `SS2_Demo_2.mp4`
+[▶ Sine wave demo](./SS2_Demo_2.mp4)
 
 <!-- SS2_Demo_2.mp4: paste its GitHub-hosted attachment URL on a line by itself here. -->
 

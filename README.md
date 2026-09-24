@@ -14,13 +14,13 @@ A two-ESP32 university project made to **see** sine and square waves in MATLAB.
 
 ### 01 · Square wave
 
-[▶ Square wave demo](./SS2_Demo_1.mp4)
+https://github.com/user-attachments/assets/9007af29-f050-4348-b50f-5cad1f0ace6f
 
 <!-- SS2_Demo_1.mp4: paste its GitHub-hosted attachment URL on a line by itself here. -->
 
 ### 02 · Sine wave
 
-[▶ Sine wave demo](./SS2_Demo_2.mp4)
+https://github.com/user-attachments/assets/41accc2e-61ae-45bc-a20c-1565d1ee1906
 
 <!-- SS2_Demo_2.mp4: paste its GitHub-hosted attachment URL on a line by itself here. -->
 
